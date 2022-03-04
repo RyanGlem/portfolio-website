@@ -89,7 +89,7 @@ export default function Experimental({}) {
       }
 
       // The green square we will knock about
-      const greenSquare = new PIXI.Sprite(PIXI.Texture.WHITE);
+      const greenSquare:any = new PIXI.Sprite(PIXI.Texture.WHITE);
       greenSquare.position.set(
         (app.screen.width - 100) / 2,
         (app.screen.height - 100) / 2
