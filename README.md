@@ -1,5 +1,5 @@
 ## Portfolio Website
-##Ryan Glemaud
+## Ryan Glemaud
 
 Currently a work in progress showcasing experimental ideas using various technologies deployed with Vercel built with NextJS
 
